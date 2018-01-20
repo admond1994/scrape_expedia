@@ -1,1 +1,2 @@
-# scrape_expedia
+# Objective 
+Scrape airline information from Expedia.com 
